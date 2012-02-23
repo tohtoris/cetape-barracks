@@ -1,1 +1,10 @@
 TC map Cetape Industrial Barracks made with netradiant.
+
+Netradiant Configuration
+------
+Put the stuff inside the netradiant folder to your own netradiant installation folder.
+
+
+After compiling the map
+------
+Archive cetape-barracs folder as cetape.zip and rename it as cetape.pk3. Put cetape.pk3 to yout TC game folder. Run the game as free for all and enjoy.
