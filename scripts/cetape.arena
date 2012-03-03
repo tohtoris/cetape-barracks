@@ -3,6 +3,6 @@ map	"cetape"
 longname	"Cetape Industrial Barracks"
 bots		"bossman coroner navy swat tango tier"
 fraglimit	20
-type		"ffa team"
+type		"ffa team rctf ctf"
 q3tc		"true"
 }
