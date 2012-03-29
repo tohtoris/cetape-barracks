@@ -11371,10 +11371,10 @@ tc_floor/concrete5
 // entity 106
 {
 "classname" "target_speaker"
-"origin" "-139.000000 1552.000000 72.000000"
+"origin" "24.000000 253.000000 72.000000"
 "noise" "/sound/world/aircondition.wav"
 "spawnflags" "17"
-"angle" "-180.000000"
+"angle" "-89.999992"
 }
 // entity 107
 {
@@ -11792,4 +11792,147 @@ tc_floor/concrete5
 "classname" "team_CTF_bluespawn"
 "origin" "441.000000 1578.000000 239.000000"
 "angle" "-90.000000"
+}
+// entity 161
+{
+"classname" "misc_turret"
+"origin" "-256.000000 1000.000000 272.000000"
+}
+// entity 162
+{
+"classname" "item_health_large"
+"origin" "-224.000000 664.000000 232.000000"
+}
+// entity 163
+{
+"classname" "item_armor_body"
+"origin" "1632.000000 120.000000 40.000000"
+}
+// entity 164
+{
+"classname" "item_armor_body"
+"origin" "440.000000 336.000000 40.000000"
+}
+// entity 165
+{
+"classname" "item_botroam"
+"origin" "3368.000000 -64.000000 176.000000"
+"angle" "-180.000000"
+}
+// entity 166
+{
+"classname" "item_botroam"
+"origin" "496.000000 1680.000000 448.000000"
+}
+// entity 167
+{
+"classname" "item_armor_body"
+"origin" "1664.000000 3160.000000 56.000000"
+}
+// entity 168
+{
+"classname" "item_health_large"
+"origin" "2488.000000 1920.000000 96.000000"
+}
+// entity 169
+{
+"classname" "item_armor_body"
+"origin" "1088.000000 1608.000000 40.000000"
+}
+// entity 170
+{
+"classname" "item_health_large"
+"origin" "728.000000 2064.000000 40.000000"
+}
+// entity 171
+{
+"classname" "item_health_large"
+"origin" "256.000000 1496.000000 40.000000"
+}
+// entity 172
+{
+"classname" "item_armor_body"
+"origin" "640.000000 1408.000000 296.000000"
+}
+// entity 173
+{
+"classname" "item_botroam"
+"origin" "568.000000 544.000000 200.000000"
+}
+// entity 174
+{
+"classname" "item_health_large"
+"origin" "1632.000000 928.000000 56.000000"
+}
+// entity 175
+{
+"classname" "item_armor_body"
+"origin" "232.000000 896.000000 56.000000"
+}
+// entity 176
+{
+"classname" "item_health_large"
+"origin" "368.000000 792.000000 56.000000"
+}
+// entity 177
+{
+"classname" "item_armor_body"
+"origin" "752.000000 1040.000000 56.000000"
+}
+// entity 178
+{
+"classname" "item_health_large"
+"origin" "-336.000000 1792.000000 128.000000"
+}
+// entity 179
+{
+"classname" "item_armor_body"
+"origin" "-336.000000 1856.000000 128.000000"
+}
+// entity 180
+{
+"classname" "target_speaker"
+"origin" "-139.000000 1552.000000 72.000000"
+"noise" "/sound/world/aircondition.wav"
+"spawnflags" "17"
+"angle" "-180.000000"
+}
+// entity 181
+{
+"classname" "target_speaker"
+"origin" "-112.000000 515.000000 72.000000"
+"noise" "/sound/world/aircondition.wav"
+"spawnflags" "17"
+"angle" "90.000008"
+}
+// entity 182
+{
+"classname" "target_speaker"
+"origin" "-405.000000 -456.000000 72.000000"
+"noise" "/sound/world/aircondition.wav"
+"spawnflags" "17"
+"angle" "0.000009"
+}
+// entity 183
+{
+"classname" "info_player_deathmatch"
+"origin" "2472.000000 1920.000000 104.000000"
+"angle" "180.000000"
+}
+// entity 184
+{
+"classname" "info_player_deathmatch"
+"origin" "1656.000000 3248.000000 48.000000"
+"angle" "-90.000000"
+}
+// entity 185
+{
+"classname" "info_player_deathmatch"
+"origin" "2744.000000 760.000000 48.000000"
+"angle" "180.000000"
+}
+// entity 186
+{
+"classname" "info_player_deathmatch"
+"origin" "528.000000 472.000000 48.000000"
 }
